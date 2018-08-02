@@ -4,3 +4,4 @@ ExportedView:
 custom/siteapikey/config/install/views.view.api_json.yml
 module name: siteapikey.module
 Documentation file = Documentation.pdf
+module tested in firefox quantum 61.0.1 (64-bit)
